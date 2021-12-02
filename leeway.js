@@ -1,1 +1,3 @@
-console.log('Hello Leeway');
+console.log(' Leeway');
+console.log(' hertz');
+console.log(' Leewayhertz');
